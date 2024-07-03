@@ -1,2 +1,12 @@
 nginx:1.22.1
 kubesphere/ks-installer:v3.3.2
+minio/minio:RELEASE.2021-04-22T15-44-28Z
+postgres:12.16
+rabbitmq:3.11.10-management
+redis:7.0.9
+nacos/nacos-server:v2.0.4
+mariadb:10.3.28
+bitnami/kafka:3.5
+wdkang/kafka-console-ui
+apache/skywalking-ui:v9.4.0-java17
+apache/skywalking-oap-server:9.4.0-java17
