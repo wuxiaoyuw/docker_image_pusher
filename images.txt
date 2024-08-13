@@ -13,3 +13,4 @@ apache/skywalking-oap-server:9.4.0-java17
 seataio/seata-server:1.5.2
 mongo:6.0.16
 mongo:4.4.29
+mongo:7.0.12
