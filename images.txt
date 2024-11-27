@@ -16,3 +16,7 @@ mongo:4.4.29
 mongo:7.0.12
 mongodb/mongodb-community-server:4.4.29-ubuntu2004
 openjdk:17-jdk
+mysql:5.7
+mysql:8
+mysql:8.4
+mysql:8.4.3
