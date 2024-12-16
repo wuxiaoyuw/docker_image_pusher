@@ -21,3 +21,4 @@ mysql:8
 mysql:8.4
 mysql:8.4.3
 tomcat:7.0
+apache/hadoop:3.4.1
