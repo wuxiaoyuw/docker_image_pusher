@@ -23,3 +23,5 @@ mysql:8.4.3
 tomcat:7.0
 apache/hadoop:3.4.1
 apache/hadoop:3.4.0
+debezium/example-postgres:1.1
+debezium/example-mysql:1.1
