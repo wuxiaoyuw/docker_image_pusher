@@ -25,3 +25,4 @@ apache/hadoop:3.4.1
 apache/hadoop:3.4.0
 debezium/example-postgres:1.1
 debezium/example-mysql:1.1
+starrocks/dev-env-centos7:3.3.7
