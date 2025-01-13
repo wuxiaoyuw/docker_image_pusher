@@ -31,3 +31,4 @@ knowstreaming/knowstreaming-ui:latest
 docker.io/library/elasticsearch:7.6.2
 knowstreaming/knowstreaming-manager:latest
 knowstreaming/knowstreaming-mysql:latest
+provectuslabs/kafka-ui
