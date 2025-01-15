@@ -31,7 +31,7 @@ knowstreaming/knowstreaming-ui:latest
 docker.io/library/elasticsearch:7.6.2
 knowstreaming/knowstreaming-manager:latest
 knowstreaming/knowstreaming-mysql:latest
-provectuslabs/kafka-ui
+provectuslabs/kafka-ui:latest
 bitnami/postgresql:11.11.0
 bitnami/zookeeper:3.6.2
 apache/dolphinscheduler-tools:3.1.9
