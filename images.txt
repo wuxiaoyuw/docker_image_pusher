@@ -34,8 +34,8 @@ knowstreaming/knowstreaming-mysql:latest
 provectuslabs/kafka-ui
 bitnami/postgresql:11.11.0
 bitnami/zookeeper:3.6.2
-apache/dolphinscheduler-tools
-apache/dolphinscheduler-api
-apache/dolphinscheduler-alert-server
-apache/dolphinscheduler-master
-apache/dolphinscheduler-worker
+apache/dolphinscheduler-tools:3.1.9
+apache/dolphinscheduler-api:3.1.9
+apache/dolphinscheduler-alert-server:3.1.9
+apache/dolphinscheduler-master:3.1.9
+apache/dolphinscheduler-worker:3.1.9
