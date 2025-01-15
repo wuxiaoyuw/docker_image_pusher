@@ -32,3 +32,6 @@ docker.io/library/elasticsearch:7.6.2
 knowstreaming/knowstreaming-manager:latest
 knowstreaming/knowstreaming-mysql:latest
 provectuslabs/kafka-ui
+bitnami/postgresql:11.11.0
+bitnami/zookeeper:3.6.2
+
