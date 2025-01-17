@@ -39,3 +39,4 @@ apache/dolphinscheduler-api:3.1.9
 apache/dolphinscheduler-alert-server:3.1.9
 apache/dolphinscheduler-master:3.1.9
 apache/dolphinscheduler-worker:3.1.9
+cnfldemos/kafka-connect-datagen:0.3.2-5.5.0
