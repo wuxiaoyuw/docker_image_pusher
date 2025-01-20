@@ -41,5 +41,6 @@
 #apache/dolphinscheduler-worker:3.1.9
 #cnfldemos/kafka-connect-datagen:0.3.2-5.5.0
 #landoop/kafka-connect-ui
-officialkakao/kafka-connect-web:latest
+#officialkakao/kafka-connect-web:latest
+obsidiandynamics/kafdrop
 
