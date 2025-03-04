@@ -42,5 +42,5 @@
 #cnfldemos/kafka-connect-datagen:0.3.2-5.5.0
 #landoop/kafka-connect-ui
 #officialkakao/kafka-connect-web:latest
-obsidiandynamics/kafdrop
-
+#obsidiandynamics/kafdrop
+cr.weaviate.io/semitechnologies/weaviate:1.29.0
