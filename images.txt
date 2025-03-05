@@ -43,4 +43,5 @@
 #landoop/kafka-connect-ui
 #officialkakao/kafka-connect-web:latest
 #obsidiandynamics/kafdrop
-cr.weaviate.io/semitechnologies/weaviate:1.29.0
+#cr.weaviate.io/semitechnologies/weaviate:1.29.0
+chroma-core/chroma
