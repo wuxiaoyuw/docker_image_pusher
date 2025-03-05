@@ -44,5 +44,6 @@
 #officialkakao/kafka-connect-web:latest
 #obsidiandynamics/kafdrop
 #cr.weaviate.io/semitechnologies/weaviate:1.29.0
-chromadb/chroma:0.6.4.dev297
-openzipkin/zipkin
+#chromadb/chroma:0.6.4.dev297
+#openzipkin/zipkin
+otel/opentelemetry-collector-contrib:0.111.0
