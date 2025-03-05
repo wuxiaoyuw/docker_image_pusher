@@ -44,4 +44,4 @@
 #officialkakao/kafka-connect-web:latest
 #obsidiandynamics/kafdrop
 #cr.weaviate.io/semitechnologies/weaviate:1.29.0
-chroma-core/chroma
+chromadb/chroma:0.6.4.dev297
