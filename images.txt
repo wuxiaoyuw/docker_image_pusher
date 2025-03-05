@@ -45,3 +45,4 @@
 #obsidiandynamics/kafdrop
 #cr.weaviate.io/semitechnologies/weaviate:1.29.0
 chromadb/chroma:0.6.4.dev297
+openzipkin/zipkin
