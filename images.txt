@@ -47,4 +47,5 @@
 #chromadb/chroma:0.6.4.dev297
 #openzipkin/zipkin
 #otel/opentelemetry-collector-contrib:0.111.0
-python:3.12.9
+#python:3.12.9
+infiniflow/ragflow:v0.17.2-slim
