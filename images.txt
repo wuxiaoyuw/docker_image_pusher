@@ -49,8 +49,9 @@
 #otel/opentelemetry-collector-contrib:0.111.0
 #python:3.12.9
 #infiniflow/ragflow:v0.17.2-slim
-elasticsearch:8.11.3
-infiniflow/infinity:v0.6.0-dev3
-mysql:8.0.39
-quay.io/minio/minio:RELEASE.2023-12-20T01-00-02Z
-valkey/valkey:8
+#elasticsearch:8.11.3
+#infiniflow/infinity:v0.6.0-dev3
+#mysql:8.0.39
+#quay.io/minio/minio:RELEASE.2023-12-20T01-00-02Z
+#valkey/valkey:8
+postgres:15.12
