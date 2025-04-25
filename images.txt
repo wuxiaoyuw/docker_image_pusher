@@ -83,11 +83,9 @@ langgenius/dify-api:1.2.0
 #myscale/myscaledb:1.6.4
 #docker.elastic.co/elasticsearch/elasticsearch:8.14.3
 #docker.elastic.co/kibana/kibana:8.14.3
-quay.io/coreos/etcd:v3.5.18
-minio/minio:RELEASE.2023-03-20T20-16-18Z
-milvus-standalone
-
-
 #downloads.unstructured.io/unstructured-io/unstructured-api:latest
 #minio/minio:RELEASE.2025-04-08T15-41-24Z
-node:22.12-alpine
+#node:22.12-alpine
+quay.io/coreos/etcd:v3.5.18
+minio/minio:RELEASE.2023-03-20T20-16-18Z
+milvusdb/milvus:v2.5.10
