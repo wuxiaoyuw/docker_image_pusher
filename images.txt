@@ -185,4 +185,5 @@ langgenius/dify-api:1.2.0
 #milvusdb/milvus:v2.5.10
 #zilliz/attu:v2.5
 #python:3.12-slim-bookworm
-metabase/metabase:latest
+#metabase/metabase:latest
+apache/airflow:latest
