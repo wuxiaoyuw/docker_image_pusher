@@ -189,3 +189,7 @@ langgenius/dify-api:1.2.0
 #apache/seatunnel:2.3.11
 apache/hop:latest
 apache/hop-web:latest
+grafana/loki:3.5.3
+grafana/promtail:3.5.3
+grafana/grafana:12.1.1
+
