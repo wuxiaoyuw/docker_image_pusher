@@ -190,5 +190,5 @@ langgenius/dify-api:1.2.0
 #openjdk:21-jdk-slim
 #eclipse-temurin:21-jdk
 #eclipse-temurin:21-alpine
-prom/prometheus:v3.5.0
-
+#prom/prometheus:v3.5.0
+ghcr.io/astral-sh/uv:0.7.13
