@@ -193,4 +193,5 @@ langgenius/dify-api:1.2.0
 #prom/prometheus:v3.5.0
 #ghcr.io/astral-sh/uv:0.7.13
 #clickhouse/clickhouse-server:25.10
-eclipse-temurin:17-jdk
+#eclipse-temurin:17-jdk
+eclipse-temurin:21-jre-noble
